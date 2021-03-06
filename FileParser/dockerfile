@@ -1,0 +1,5 @@
+FROM mcr.microsoft.com/dotnet/framework/runtime:4.8-windowsservercore-ltsc2019
+WORKDIR /app
+COPY /bin/Debug/netcoreapp3.1 .
+COPY sample1.txt .
+ENTRYPOINT ["TestQueue.exe", "sample1.txt ","1990-01-05","1990-04-18"]
