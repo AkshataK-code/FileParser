@@ -2,7 +2,7 @@
   "profiles": {
     "TestQueue": {
       "commandName": "Project",
-      "commandLineArgs": "\"..\\Mock\\sample4.txt\" \"1989-01-01\" \"1990-05-12\""
+      "commandLineArgs": "\"..\\..\\Mock\\sample4.txt\" \"1989-01-01\" \"1990-05-12\""
     }
   }
 }

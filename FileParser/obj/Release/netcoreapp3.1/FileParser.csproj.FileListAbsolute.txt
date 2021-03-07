@@ -1,0 +1,15 @@
+C:\Akshata\Technical\Rokt\FileParser_\FileParser\FileParser\bin\Release\netcoreapp3.1\FileParser.exe
+C:\Akshata\Technical\Rokt\FileParser_\FileParser\FileParser\bin\Release\netcoreapp3.1\FileParser.deps.json
+C:\Akshata\Technical\Rokt\FileParser_\FileParser\FileParser\bin\Release\netcoreapp3.1\FileParser.runtimeconfig.json
+C:\Akshata\Technical\Rokt\FileParser_\FileParser\FileParser\bin\Release\netcoreapp3.1\FileParser.runtimeconfig.dev.json
+C:\Akshata\Technical\Rokt\FileParser_\FileParser\FileParser\bin\Release\netcoreapp3.1\FileParser.dll
+C:\Akshata\Technical\Rokt\FileParser_\FileParser\FileParser\bin\Release\netcoreapp3.1\FileParser.pdb
+C:\Akshata\Technical\Rokt\FileParser_\FileParser\FileParser\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Akshata\Technical\Rokt\FileParser_\FileParser\FileParser\obj\Release\netcoreapp3.1\FileParser.csprojAssemblyReference.cache
+C:\Akshata\Technical\Rokt\FileParser_\FileParser\FileParser\obj\Release\netcoreapp3.1\FileParser.AssemblyInfoInputs.cache
+C:\Akshata\Technical\Rokt\FileParser_\FileParser\FileParser\obj\Release\netcoreapp3.1\FileParser.AssemblyInfo.cs
+C:\Akshata\Technical\Rokt\FileParser_\FileParser\FileParser\obj\Release\netcoreapp3.1\FileParser.csproj.CoreCompileInputs.cache
+C:\Akshata\Technical\Rokt\FileParser_\FileParser\FileParser\obj\Release\netcoreapp3.1\FileParser.csproj.CopyComplete
+C:\Akshata\Technical\Rokt\FileParser_\FileParser\FileParser\obj\Release\netcoreapp3.1\FileParser.dll
+C:\Akshata\Technical\Rokt\FileParser_\FileParser\FileParser\obj\Release\netcoreapp3.1\FileParser.pdb
+C:\Akshata\Technical\Rokt\FileParser_\FileParser\FileParser\obj\Release\netcoreapp3.1\FileParser.genruntimeconfig.cache

@@ -20,7 +20,7 @@ namespace FileConversionCoordinatorTests
         [TestMethod]
         public void CanProcessSmallFile()
         {
-            string inputFile = @"..\Mock\sample1.txt"; //File to be processed
+            string inputFile = @"..\..\Mock\sample1.txt"; //File to be processed
             string startDate = "1990-01-03"; //Start date
             string stopDate = "1990-01-07";  //Stop date 
 
@@ -34,7 +34,7 @@ namespace FileConversionCoordinatorTests
         [TestMethod]
         public void CanProcessMediumFile()
         {
-            string inputFile = @"..\Mock\sample2.txt"; //File to be processed
+            string inputFile = @"..\..\Mock\sample2.txt"; //File to be processed
             string startDate = "1990-01-03"; //Start date
             string stopDate = "1990-01-12";  //Stop date 
 
@@ -49,7 +49,7 @@ namespace FileConversionCoordinatorTests
         [TestMethod]
         public void CanProcessBigFile()
         {
-            string inputFile = @"..\Mock\sample3.txt"; //File to be processed
+            string inputFile = @"..\..\Mock\sample3.txt"; //File to be processed
             string startDate = "2000-06-04"; //Start date
             string stopDate = "2002-12-11";  //Stop date 
 
@@ -62,7 +62,7 @@ namespace FileConversionCoordinatorTests
 
         public void TestWhenStartDateIsNotPresent()
         {
-            string inputFile = @"..\Mock\sample1.txt"; //File to be processed
+            string inputFile = @"..\..\Mock\sample1.txt"; //File to be processed
             string startDate = ""; //Start date
             string stopDate = "1990-01-07";  //Stop date 
 
@@ -75,7 +75,7 @@ namespace FileConversionCoordinatorTests
 
         public void TestWhenStopDateIsOutOfRange()
         {
-            string inputFile = @"..\Mock\sample1.txt"; //File to be processed
+            string inputFile = @"..\..\Mock\sample1.txt"; //File to be processed
             string startDate = "1990-01-01"; //Start date
             string stopDate = "1990-01-07";  //Stop date 
 
@@ -88,7 +88,7 @@ namespace FileConversionCoordinatorTests
 
         public void TestWhenFileIsNotPresent()
         {
-            string inputFile = @"..\Mock\sample10.txt"; //File to be processed
+            string inputFile = @"..\..\Mock\sample10.txt"; //File to be processed
             string startDate = "1990-01-01"; //Start date
             string stopDate = "1990-01-07";  //Stop date 
 

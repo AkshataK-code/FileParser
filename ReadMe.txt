@@ -1,7 +1,12 @@
 File Parser
 
+How to run in command line
+
+FileParser.exe "..\..\Mock\sample4.txt" "1989-01-01" "1990-05-12"
+
+
 Input:
-This application takes 3 command line arguments.
+This is a console application takes 3 command line arguments.
 1. Name of file to be parsed
 2. Start date
 3. End date

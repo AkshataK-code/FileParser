@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bfnRTx+rHrEA2Zyumm8hfd+mfgvlc9X5GxeBD4/XIA1QCNqLT168YStwzSfXRx2YbMOVWAV1FX0gKypEGccTIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Akshata\\Technical\\Rokt\\FileParser_\\FileParser\\FileParser\\FileParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nitin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
